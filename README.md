@@ -1,4 +1,4 @@
-# FIT2107 Software Quality and Testing Assignment - MyEventManager repository (Lab 04 - Team 1)
+# FIT2107 Software Quality and Testing Assignment - MyEventManager (Lab 04 - Team 1)
 
 ## Run our program
 In order to run our program, users can either execute the [MyEventManager.py](MyEventManager.py) file or the [MyEventManagerApp.py](MyEventManagerApp.py) file.
