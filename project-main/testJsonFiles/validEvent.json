@@ -1,0 +1,23 @@
+{
+	"summary": "Networking Session",
+	"location": "98 Shirley Street PIMPAMA QLD 4209",
+	"organizer": {
+	  "email": "georgetan615@gmail.com",
+	  "displayName": "George Tan"
+	},
+	"start": {
+	  "dateTime": "2022-09-23T6:00:00",
+	  "timeZone": "Asia/Singapore"
+	},
+	"end": {
+	  "dateTime": "2022-09-24T10:25:00",
+	  "timeZone": "Asia/Singapore"
+	},
+	"attendees": [
+	  {
+		"email": "georgetan.business@gmail.com",
+		"displayName": "George Tan2"
+	  }
+	]
+  }
+
